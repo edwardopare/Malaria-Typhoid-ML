@@ -156,7 +156,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📫 Contact
 
-Your Name - Edward Opare
+Edward Opare-Yeboah - edwop68@gmail.com
+Prince Acquah Rockson - parockson@gmail.com
+Eric Sena Semordzi - esemordzi001@st.ug.edu.gh
 
 
 Project Link: https://github.com/your-username/Malaria-Typhoid-ML
